@@ -1,0 +1,19 @@
+GRID MM 
+LAYER 1 
+WIRE 1.350 'RoundedAntenna' ( 0.000  -1.500 )( 0.000  7.000 ); 
+ARC 'RoundedAntenna' CCW (6.000 7.000) (0.000 7.000) (0.000 7.000); 
+WIRE 1.350 'RoundedAntenna' ( 6.000 0.000 )( 6.000 7.000 ); 
+WIRE 1.350 'RoundedAntenna' ( 6.000 0.000 )( 1.500 0.000 ); 
+WIRE 1.350 'RoundedAntenna' ( 1.500  0.000 )( 1.500  7.000 ); 
+ARC 'RoundedAntenna' CCW (4.500 7.000) (1.500 7.000) (1.500 7.000); 
+WIRE 1.350 'RoundedAntenna' ( 4.500 1.500 )( 4.500 7.000 ); 
+WIRE 1.350 'RoundedAntenna' ( 4.500 1.500 )( 3.000 1.500 ); 
+LAYER 16 
+WIRE 1.350 'RoundedAntenna' ( 0.000  0.000 )( 0.000  7.000 ); 
+ARC 'RoundedAntenna' CCW (6.000 7.000) (0.000 7.000) (0.000 7.000); 
+WIRE 1.350 'RoundedAntenna' ( 6.000 -1.500 )( 6.000 7.000 ); 
+WIRE 1.350 'RoundedAntenna' ( 4.500 0.000 )( 0.000 0.000 ); 
+WIRE 1.350 'RoundedAntenna' ( 1.500  1.500 )( 1.500  7.000 ); 
+ARC 'RoundedAntenna' CCW (4.500 7.000) (1.500 7.000) (1.500 7.000); 
+WIRE 1.350 'RoundedAntenna' ( 4.500 0.000 )( 4.500 7.000 ); 
+WIRE 1.350 'RoundedAntenna' ( 3.000 1.500 )( 1.500 1.500 ); 
